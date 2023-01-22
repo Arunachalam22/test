@@ -7,3 +7,4 @@ c=`expr $a + $b`
  
  echo $c
  
+set +e
