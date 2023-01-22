@@ -6,5 +6,3 @@ b=$2
 c=`expr $a + $b`
  
  echo $c
- 
-set +e
